@@ -1,4 +1,4 @@
-# Time-series-analysis
+# Time-series analysis
 
 - Stationarity check of the time-series 
 - Correlations check 
